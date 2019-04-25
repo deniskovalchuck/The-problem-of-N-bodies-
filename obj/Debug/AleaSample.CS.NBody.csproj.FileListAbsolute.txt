@@ -1,8 +1,0 @@
-C:\Users\Admin\Downloads\AleaSample.CS.NBody\tutorial\samples\AleaSample.CS.NBody\obj\Debug\AleaSample.CS.NBody.csprojAssemblyReference.cache
-C:\Users\Admin\Downloads\AleaSample.CS.NBody\tutorial\samples\AleaSample.CS.NBody\obj\Debug\AleaSample.CS.NBody.csproj.CoreCompileInputs.cache
-C:\Users\Admin\Downloads\AleaSample.CS.NBody\debug\AleaSample.CS.NBody.exe.config
-C:\Users\Admin\Downloads\AleaSample.CS.NBody\debug\AleaSample.CS.NBody.exe
-C:\Users\Admin\Downloads\AleaSample.CS.NBody\tutorial\samples\AleaSample.CS.NBody\obj\Debug\AleaSample.CS.NBody.csproj.CopyComplete
-C:\Users\Admin\Downloads\AleaSample.CS.NBody\debug\AleaSample.CS.NBody.pdb
-C:\Users\Admin\Downloads\AleaSample.CS.NBody\tutorial\samples\AleaSample.CS.NBody\obj\Debug\AleaSample.CS.NBody.exe
-C:\Users\Admin\Downloads\AleaSample.CS.NBody\tutorial\samples\AleaSample.CS.NBody\obj\Debug\AleaSample.CS.NBody.pdb
